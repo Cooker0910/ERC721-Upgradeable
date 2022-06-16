@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Cooker0910/ERC721-Upgradeable/issues"
   },
-  "homepage": "https://github.com/Cooker0910/ERC721-Upgradeable#readme"
+  "homepage": "https://github.com/Cooker0910/ERC721-Upgradeable#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
 }
